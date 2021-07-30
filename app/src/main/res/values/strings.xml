@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">yoloOD</string>
+    <string name="yolo">YOLO ile öğrenelim</string>
+    <string name="deneme">deneme</string>
+    <string name="learning_with_ml">Learning with DL</string>
+    <string name="kelimelerim">Kelimelerim</string>
+    <string name="ml">ML ile öğren</string>
+    <string name="not">Notlarım</string>
+    <string name="todo">TODO</string>
+    <string name="empty_list">Empty List</string>
+    <string name="dialog_permission_title">Okuma izni</string>
+    <string name="dialog_permission_body">Dosyalara erişim izni gereklidir.</string>
+    <string name="exit_app">Uygulamadan Çık</string>
+    <string name="allow_app">İzin ver</string>
+    <string name="dialog_permission_title2">Gerekli izinler</string>
+    <string name="dialog_permission_body2">Dosyaları okuma,yazma ve Kameraya erişim izni beklenmektedir.</string>
+</resources>
